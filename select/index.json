@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "X-encounter",
+  "base_artist": "Maon Kurosaki",
+  "createdAt": "2025-12-03T16:17:22.648464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/01_X-encounter_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/02_X-encounter_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/03_X-encounter_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/04_X-encounter_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "Kurosaki Maon",
+      "has_synced": true,
+      "path": "select/05_X-encounter_Kurosaki_Maon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/06_X-encounter_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/07_X-encounter_(y0c1e_REMIX)_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/08_X-encounter_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/09_X-encounter_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/10_X-encounter_(y0c1e_REMIX)_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/11_X-encounter_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/12_X-encounter_黒崎真音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_01_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_02_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_03_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_04_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_05_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_06_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "X-encounter",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_07_X-encounter_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_08_X-encounter_(y0c1e_REMIX)_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "X-encounter (y0c1e REMIX)",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_09_X-encounter_(y0c1e_REMIX)_黒崎真音.txt"
+    }
+  ]
+}
